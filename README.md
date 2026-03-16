@@ -1,12 +1,12 @@
 # 📘 Daily DSA & Coding Practice
 
-## 🗓️ Journey Log (June 2025 - Jan 2026)
+## Journey Log (June 2025 - Jan 2026)
 
 This repository contains my daily practice of Data Structures and Algorithms, problem-solving approaches, and code implementations. The journey began in June 2025 and continues as I strengthen my problem-solving skills.
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 - **Purpose**: Track daily DSA practice, document learnings, and build consistency
 - **Language**: Python 3.13.12
@@ -15,31 +15,31 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### ✅ Arrays & Hashing
+### Arrays & Hashing
 - Basic operations, sorting, frequency counting
 - Subarray problems (fixed & variable size sliding window)
 - Kadane's Algorithm (Maximum Subarray Sum)
 - Next Greater Element problems
 
-### ✅ Sliding Window Patterns
+### Sliding Window Patterns
 - **Fixed Size**: Maximum sum subarray of size k, substrings of size k with distinct characters
 - **Variable Size**: Longest subarray with at most k odd numbers, minimum window sum
 - **At Most → Exactly K**: Converting "exactly k" problems using "atMost(k) - atMost(k-1)"
 
-### ✅ Two Pointers
+### Two Pointers
 - Removing duplicates from sorted array
 - Dutch National Flag problem (Sort 0,1,2)
 - Palindrome checking
 - Merging sorted arrays
 
-### ✅ Recursion
+### Recursion
 - Basic recursion (printing numbers, factorial)
 - Fibonacci sequence (with time complexity analysis: O(2ⁿ) vs O(n))
 - Recursive tree visualization
 
-### ✅ Sorting Algorithms
+### Sorting Algorithms
 | Algorithm | Time Complexity | Key Feature |
 |-----------|----------------|-------------|
 | Bubble Sort | O(n²) | Adaptive with swap flag |
@@ -49,14 +49,14 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 | Quick Sort | O(n log n) | In-place partitioning |
 | Counting Sort | O(n+k) | Non-comparison based |
 
-### ✅ Linked Lists
+### Linked Lists
 - **Singly Linked List**: Traversal, insertion/deletion at various positions
 - **Doubly Linked List**: Prev/next pointers
 - **Circular Linked List**: Last node points to head
 - **Fast & Slow Pointer Technique**: Middle node, cycle detection
 - **Classic Problems**: Palindrome check, rotate list, add two numbers, cycle detection & removal
 
-### ✅ Stacks & Queues
+### Stacks & Queues
 - Stack implementation (List & Linked List)
 - Queue implementation (List & Linked List)
 - Queue using two stacks
@@ -64,7 +64,7 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 - Backspace String Compare
 - Next Greater Element (I & II - circular array)
 
-### ✅ Binary Trees
+### Binary Trees
 - **Tree Traversals**: Preorder, Inorder, Postorder, Level Order, Zigzag
 - **Level Order Variations**: Average per level, right side view, bottom-up
 - **Properties**: Maximum depth, symmetry check
@@ -72,7 +72,7 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 
 ---
 
-## 🧩 Problem-Solving Patterns Learned
+## Problem-Solving Patterns Learned
 
 1. **Sliding Window**
    - Fixed window → maintain sum/count while sliding
@@ -99,7 +99,7 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 
 ---
 
-## 💻 Environment & Tools
+## Environment & Tools
 
 ### Python Version
 Python 3.13.12
@@ -117,7 +117,7 @@ Python 3.13.12
 - **Notebook**: Jupyter Notebook v7.5.4
 - **Editor**: V S Code
 
-# 🔗 Connect With Me
+# Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaiShashankG-181717?style=for-the-badge&logo=github)](https://github.com/SaiShashankG) \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Shashank-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-shashank-6a4010271/) \
