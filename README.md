@@ -124,7 +124,7 @@ Python 3.13.12
 - Codeforces: https://codeforces.com/profile/SasiG
 - CodeChef: https://www.codechef.com/users/focus_trick_51
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="16" height="16"> GitHub
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="16" height="16">{https://github.com/SaiShashankG}
 
 # 🤝 Connect
 Feel free to ⭐ this repo if you find it helpful!
