@@ -105,12 +105,12 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 Python 3.13.12
 
 ### Key Libraries Used
-- **NumPy** v2.4.2 - Array operations, matrix manipulations
-- **Pandas** v3.0.1 - Data structures & analysis
-- **yFinance** v1.2.0 - Financial data fetching (future projects)
-- **Pandas-datareader** v0.10.0 - Remote data access
-- **Matplotlib** v3.10.8 - Data visualization
-- **Seaborn** v0.13.2 - Statistical visualizations
+- **NumPy** v2.4.2 
+- **Pandas** v3.0.1
+- **yFinance** v1.2.0
+- **Pandas-datareader** v0.10.0
+- **Matplotlib** v3.10.8
+- **Seaborn** v0.13.2
 
 ### Development Environment
 - **OS**: Zorin OS (Ubuntu-based Linux)
@@ -118,11 +118,13 @@ Python 3.13.12
 - **Editor**: V S Code
 
 # 🔗 Connect With Me
-GitHub: https://github.com/SaiShashankG
-LinkedIn: https://www.linkedin.com/in/sai-shashank-6a4010271/
-LeetCode: https://leetcode.com/u/kvTAOWYkF3/
-Codeforces: https://codeforces.com/profile/SasiG
-CodeChef: https://www.codechef.com/users/focus_trick_51
+- GitHub: https://github.com/SaiShashankG
+- LinkedIn: https://www.linkedin.com/in/sai-shashank-6a4010271/
+- LeetCode: https://leetcode.com/u/kvTAOWYkF3/
+- Codeforces: https://codeforces.com/profile/SasiG
+- CodeChef: https://www.codechef.com/users/focus_trick_51
+
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="16" height="16"> GitHub
 
 # 🤝 Connect
 Feel free to ⭐ this repo if you find it helpful!
