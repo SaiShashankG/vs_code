@@ -1,4 +1,4 @@
-# 📘 Daily DSA & Coding Practice
+# Daily DSA & Coding Practice
 
 ## Journey Log (June 2025 - Jan 2026)
 
@@ -68,8 +68,9 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 - **Tree Traversals**: Preorder, Inorder, Postorder, Level Order, Zigzag
 - **Level Order Variations**: Average per level, right side view, bottom-up
 - **Properties**: Maximum depth, symmetry check
-- **Perfect Binary Tree**: Populating next right pointers
-
+- **Perfect Binary Tree**: Populating next right pointer
+- Height-balanced tree or not
+- **Binary Search Tree**: Searching, Inserting, Deleting, Validating
 ---
 
 ## Problem-Solving Patterns Learned
@@ -125,6 +126,6 @@ Python 3.13.12
 [![Codeforces](https://img.shields.io/badge/Codeforces-SasiG-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/SasiG) \
 [![CodeChef](https://img.shields.io/badge/CodeChef-focus_trick_51-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/focus_trick_51)
 
-# 🤝 Connect
+# Connect
 Feel free to ⭐ this repo if you find it helpful!
 Suggestions and discussions are always welcome.
