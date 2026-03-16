@@ -124,8 +124,30 @@ Python 3.13.12
 - Codeforces: https://codeforces.com/profile/SasiG
 - CodeChef: https://www.codechef.com/users/focus_trick_51
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="16" height="16">{https://github.com/SaiShashankG}
-- \href{https://github.com/SaiShashankG}{yemo}
+## 🔗 Connect With Me
+- [GitHub](https://github.com/SaiShashankG)
+- [LinkedIn](https://www.linkedin.com/in/sai-shashank-6a4010271/)
+- [LeetCode](https://leetcode.com/u/kvTAOWYkF3/)
+- [Codeforces](https://codeforces.com/profile/SasiG)
+- [CodeChef](https://www.codechef.com/users/focus_trick_51)
+
+## 🔗 Connect With Me
+- [GitHub](https://github.com/SaiShashankG) - @SaiShashankG
+- [LinkedIn](https://www.linkedin.com/in/sai-shashank-6a4010271/) - Sai Shashank
+- [LeetCode](https://leetcode.com/u/kvTAOWYkF3/) - kvTAOWYkF3
+- [Codeforces](https://codeforces.com/profile/SasiG) - SasiG
+- [CodeChef](https://www.codechef.com/users/focus_trick_51) - focus_trick_51
+
+## 🔗 Connect With Me
+🐙 [GitHub](https://github.com/SaiShashankG) • 💼 [LinkedIn](https://www.linkedin.com/in/sai-shashank-6a4010271/) • ⚡ [LeetCode](https://leetcode.com/u/kvTAOWYkF3/) • 🎯 [Codeforces](https://codeforces.com/profile/SasiG) • 🍴 [CodeChef](https://www.codechef.com/users/focus_trick_51)
+
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-SaiShashankG-181717?style=for-the-badge&logo=github)](https://github.com/SaiShashankG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Shashank-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-shashank-6a4010271/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kvTAOWYkF3-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kvTAOWYkF3/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-SasiG-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/SasiG)
+[![CodeChef](https://img.shields.io/badge/CodeChef-focus_trick_51-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/focus_trick_51)
 
 # 🤝 Connect
 Feel free to ⭐ this repo if you find it helpful!
