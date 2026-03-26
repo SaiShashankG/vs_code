@@ -71,6 +71,9 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 - **Perfect Binary Tree**: Populating next right pointer
 - Height-balanced tree or not
 - **Binary Search Tree**: Searching, Inserting, Deleting, Validating
+- K^{th} Smallest element in BST
+- AVL Tree
+- **Heap**: Maximum Heap, Minimum Heap, Priority Queue
 ---
 
 ## Problem-Solving Patterns Learned
@@ -97,6 +100,7 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
    - DFS traversals
    - Height/depth calculations
    - Symmetry checking
+   - Binary Search Tree
 
 ---
 
@@ -114,7 +118,7 @@ Python 3.13.12
 - **Seaborn** v0.13.2
 
 ### Development Environment
-- **OS**: Zorin OS (Ubuntu-based Linux)
+- **OS**: Zorin 18 Core OS (Ubuntu-based Linux)
 - **Notebook**: Jupyter Notebook v7.5.4
 - **Editor**: V S Code
 
