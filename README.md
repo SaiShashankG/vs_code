@@ -71,9 +71,13 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
 - **Perfect Binary Tree**: Populating next right pointer
 - Height-balanced tree or not
 - **Binary Search Tree**: Searching, Inserting, Deleting, Validating
-- K^{th} Smallest element in BST
+- $K^{th}$ Smallest element in BST
 - AVL Tree
 - **Heap**: Maximum Heap, Minimum Heap, Priority Queue
+
+### Graphs
+- **Graphs**: Adjacency List, Adjacency Matrix
+- **Graph Traversals**: BFS(Queue), DFS(Stack & Recursion)
 ---
 
 ## Problem-Solving Patterns Learned
@@ -101,7 +105,8 @@ This repository contains my daily practice of Data Structures and Algorithms, pr
    - Height/depth calculations
    - Symmetry checking
    - Binary Search Tree
-
+6. **Graphs**
+   - Detect cycle in Undirected graph
 ---
 
 ## Environment & Tools
